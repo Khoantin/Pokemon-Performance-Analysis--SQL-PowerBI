@@ -8,7 +8,7 @@ This project builds an automated pipeline that scrapes Pokémon data from Pokém
 ## Things I learned ✅
 -   Basic usage of Bs4 library for Webscrabing and digging through a sites html code
 -   Using Pandas for simple Transform and Datacleaning.Some Data cleaning is also done when webscraping.
--   MYSQL and a of DAX function in PowerBi, embedding image, custom DAX function and Measures to show current item/pokemon vs the Average Performace and many others
+-   MYSQL and DAX functions in PowerBi, embedding image, custom DAX function and Measures to show current item/pokemon vs the Average Performace and many others
 -   PowerBI visualization: filters, graphs and overall creating a visually aesthetic dashboard
 
 ## Things I would do different/improve if I had more time
