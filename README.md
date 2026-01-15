@@ -3,13 +3,13 @@ This project builds an automated pipeline that scrapes Pokémon data from Pokém
 ![assets/generation_sort.jpg](assets/generation_sort.jpg)
 
 ## How to Navigate this Project
--   'PowerBI Screenshots' is home to images of my dashboards and some of its functions
+-   'assets' is home to images of my dashboards and some of its functions/filters
 -   'Datascraper.py' is the main webscraping and data collecting script.
 -   'Database_Schema.sql' is my sql code for creating the actual Schema
 
 ## Things I learned ✅
 -   Basic usage of Bs4 library for Webscrabing and digging through a sites html code
--   Pandas for simple Transform and Datacleaning.Some Data cleaning is also done when webscraping.
+-   Pandas for simple Transform and Datacleaning.
 -   MYSQL and DAX functions in PowerBi, embedding image, custom DAX function and Measures to show current item/pokemon vs the Average Performace and many others
 -   PowerBI visualization: filters, graphs and overall creating a visually aesthetic dashboard
 
