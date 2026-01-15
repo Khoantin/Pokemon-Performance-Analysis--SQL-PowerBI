@@ -18,4 +18,4 @@ This project builds an automated pipeline that scrapes Pokémon data from Pokém
 -   Although this project was done on pokemon, future projects could focus on products and sales. Perhaps instead of highest performing Pokemon, it could be certain top performing products/sales, their profit%
   and how that specific product sales and performance compares to the overall average %, similar to what I had in this project with Pokemon.
 
-![assets/multiple_selection.jpg](assets/multiple_selection.jpg)
+![assets/generation_sort.jpg](assets/generation_sort.jpg)
